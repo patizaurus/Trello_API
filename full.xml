@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="full">
+    <test name="All Trello tests">
+        <classes>
+            <class name="BoardCreationTest"/>
+            <class name="BoardDeletionTest"/>
+            <class name="BoardUpdateTest"/>
+            <class name="BoardViewTest"/>
+        </classes>
+    </test>
+</suite>
