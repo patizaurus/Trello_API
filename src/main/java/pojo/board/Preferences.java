@@ -10,6 +10,7 @@ public class Preferences {
     public String invitations;
     public boolean selfJoin;
     public boolean cardCovers;
+    public boolean cardCounts;
     public boolean isTemplate;
     public String cardAging;
     public boolean calendarFeedEnabled;
